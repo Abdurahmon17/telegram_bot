@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Django
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+*.log
+
+# IDE va editorlar
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS fayllari
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.bak
+*.orig
