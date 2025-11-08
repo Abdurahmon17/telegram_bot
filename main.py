@@ -3,8 +3,8 @@ from aiogram.filters import Command
 import asyncio
 from keep_alive import keep_alive
 
-TOKEN = "8568305074:AAGldekwMYk_Y_-04bZC0hlO5bR9Nn5fRAc"
-CHANNEL_ID = "https://t.me/+LuA1Cm2Jjh83Yjc6"
+TOKEN = "TELEGRAM_BOT_TOKEN"
+CHANNEL_ID = "TELEGRAM_KANAL_USERNAME_OR_KANAL_LINK"
 
 
 bot = Bot(TOKEN)
